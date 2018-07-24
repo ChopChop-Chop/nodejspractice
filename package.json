@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmptyBrain/nodejspractice.git"
+  },
+  "author": "EmptyBrain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmptyBrain/nodejspractice/issues"
+  },
+  "homepage": "https://github.com/EmptyBrain/nodejspractice#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
